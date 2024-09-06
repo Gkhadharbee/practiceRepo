@@ -28,8 +28,17 @@ public class FilterExample
 
 		return result;
 	}
+#feature2.2 changes
+/* HelloWorld.java
+ */
 
-
+public class HelloWorld
+{
+	public static void main(String[] args) {
+		System.out.println("Hello World!");
+	}
+}
+end of feature2.2
 	// helper method that determines the average color of a neighberhood
 	// around a particular cell.
 	private Color aveOfNeighbors(Color[][] image, int row, int col, int neighberhoodSize)
