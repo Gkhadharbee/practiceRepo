@@ -102,4 +102,3 @@ public class Factorial
 		return isRectangular;
 	}
 }
-jenkins job was practicing
